@@ -23,3 +23,6 @@ As an employer, I want:
 - To be able to customize my company profile
 - To see my potential matches once I create an open position
 - To easily be able to set up an interview with each candidate
+
+## ERD
+<img src=https://i.imgur.com/EXYXBkN.png>
